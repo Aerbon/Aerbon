@@ -1,5 +1,6 @@
 - Hi, I’m @Aerbon.
-- I’m interested in game development.
+- I’m interested in game development, among many other things.
+- I’m studying mechanical engineering (almost graduated).
 - I’m currently learning rust.
 
 <!---
