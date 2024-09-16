@@ -8,6 +8,11 @@
   - Python
   - C#
   - Java
+- Some of my projects, not all of which are available here, include:
+  - A package manager, in Lua, using the github API to check for updates and download packages
+  - An octree library, in Rust
+  - An AI that plays chess, in Rust
+- I am currently undergoing the Harvard CS50 AI Course online
 
 
 <!---
