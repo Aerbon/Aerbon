@@ -1,7 +1,6 @@
 - Hi, I’m @Aerbon.
 - I’m interested in game development, among many other things.
 - I have a degree in mechanical engineering.
-- I’m currently looking for a job.
 - I mainly develop in Rust, but i also use:
   - C / C++
   - Lua
@@ -12,7 +11,6 @@
   - A package manager, in Lua, using the github API to check for updates and download packages
   - An octree library, in Rust
   - An AI that plays chess, in Rust
-- I am currently undergoing the Harvard CS50 AI Course online
 
 
 <!---
